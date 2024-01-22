@@ -23,19 +23,19 @@ Minhas habilidades de Front-end e UI Designer
 **FIGMA / ADOBE-XD:** ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
 
 # 🎓 Formação
-- UI Start: 80 horas
+- UI Start: 80 horas <br />
   Tipografia, Cores, Variáveis, Componentes, Styleguide, ... <br />
   
-- CodeBOOST: 80 horas
+- CodeBOOST: 80 horas <br />
   Tipografia, Cores, Variáveis, Componentes, Styleguide, ... <br />
   
-- Rocketseat: 180 horas
+- Rocketseat: 180 horas <br />
   Tipografia, Cores, Variáveis, Componentes, Styleguide, ... <br />
   
-- B7Web: 200 horas
+- B7Web: 200 horas <br />
   Tipografia, Cores, Variáveis, Componentes, Styleguide, ... <br />
   
-- Matheus Battisti: 60 horas
+- Matheus Battisti: 60 horas <br />
   Tipografia, Cores, Variáveis, Componentes, Styleguide, ... <br />
 
 # 🚀 Experiência Profissional
