@@ -47,7 +47,7 @@ Minhas habilidades de Front-end e UI Designer
 # 🚀 Experiência Profissional
 Minhas experiências de trabalho profissional
 
-| [**id360 New Media**](https://www.id360.com.br/) • 2023 - Atualmente Full-time | [**id360 New Media**](https://www.id360.com.br/) • 2020 - 2022 Full-time | [**id360 New Media**](https://www.id360.com.br/) • 2019 - 2020 Full-time |
+| [**id360 New Media**](https://www.id360.com.br/) • 2023 - Atualmente Full-time | [**Agência Moustache**](https://agenciamoustache.com.br/) • 2020 - 2022 Full-time | [**GMM TI**](https://gmmti.com.br/) • 2019 - 2020 Full-time |
 | :---         |     :---:      |          ---: |
 | Desenvolvedor Web Front-end   | Desenvolvedor Web Front-end     | Desenvolvedor Web Front-end    |
 | Landing Pages     | Landing Pages       | Landing Pages      |
