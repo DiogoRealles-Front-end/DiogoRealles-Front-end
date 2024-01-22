@@ -12,16 +12,34 @@ Desenvolvedor Web Front-end - UI Designer
 # 🤖 Skills
 Minhas habilidades de Front-end e UI Designer
 
-**HTML5:** ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
-**CSS3:** ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
-**JAVASCRIPT / ES6:** ⭐ ⭐ ⭐  (3/5) <br />
-**BOOTSTRAP 4/5:** ⭐ ⭐ ⭐ ⭐ ⭐  (5/5) <br />
-**SASS:** ⭐ ⭐ ⭐ ⭐ (4/5) <br />
-**WORDPRESS:** ⭐ ⭐ (2/5) <br />
-**REACT:** ⭐ ⭐ ⭐ (3/5) <br />
-**NEXT.JS:** ⭐ ⭐ (2/5) <br />
-**NODEJS:** ⭐ ⭐  (2/5) <br />
-**FIGMA / ADOBE-XD:** ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+
+<img src="https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ (4/5) <br />
+
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐  (5/5) <br />
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" /> ⭐ ⭐ ⭐  (3/5) <br />
+
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff" /> ⭐ ⭐ ⭐ (3/5) <br />
+
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" /> ⭐ ⭐ (2/5) <br />
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ (4/5) <br />
+
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ (4/5) <br />
+
+<img src="https://img.shields.io/badge/VS%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+
+<img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=Wordpress&logoColor=ffffff" /> ⭐ ⭐ (2/5) <br />
+
+<img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" /> ⭐ ⭐ (2/5) <br />
+
+<img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=ffffff" /> ⭐ ⭐ (2/5) <br />
+
 
 # 🎓 Formação
 - **UIBOOST:** 80 horas <br />
