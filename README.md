@@ -11,6 +11,7 @@ Desenvolvedor Web Front-end - UI Designer
 
 # 🤖 Skills
 Minhas habilidades de Front-end e UI Designer
+
 **HTML5:** ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
 **CSS3:** ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
 **JAVASCRIPT / ES6:** ⭐ ⭐ ⭐  (3/5) <br />
