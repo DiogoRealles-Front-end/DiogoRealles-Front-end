@@ -23,20 +23,25 @@ Minhas habilidades de Front-end e UI Designer
 **FIGMA / ADOBE-XD:** ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
 
 # 🎓 Formação
-- UI Start: 80 horas <br />
-  Tipografia, Cores, Variáveis, Componentes, Styleguide, ... <br />
+- **UIBOOST:** 80 horas <br />
+  Conceitos e Teoria do Design, Tipografia, Cores, Grid, Variáveis, Componentes, Styleguide <br />
+  **Projetos:** UI Landing Page Banco Neon <br />
   
-- CodeBOOST: 80 horas <br />
-  Tipografia, Cores, Variáveis, Componentes, Styleguide, ... <br />
+- **CodeBOOST:** 80 horas <br />
+  HTML5, CSS3, JS, WordPress <br />
+  **Projetos:** Landing Page Banco Neon, LP Blizzard, LP com API Pokémin <br />
   
-- Rocketseat: 180 horas <br />
-  Tipografia, Cores, Variáveis, Componentes, Styleguide, ... <br />
+- **Rocketseat:** 180 horas <br />
+  React, Next.JS, NodeJS <br />
+  **Projetos:** API RocketNotes, RocketShop <br />
   
-- B7Web: 200 horas <br />
-  Tipografia, Cores, Variáveis, Componentes, Styleguide, ... <br />
+- **B7Web:** 200 horas <br />
+  HTML5, CSS3, JS, TS, NodeJS, MySQL <br />
+  **Projetos:** IMC com React e TS <br />
   
-- Matheus Battisti: 60 horas <br />
-  Tipografia, Cores, Variáveis, Componentes, Styleguide, ... <br />
+- **Matheus Battisti:** 60 horas <br />
+  HTML5, CSS3, SASS, JS, Bootstrap, React, NodeJS, MySQL <br />
+  **Projetos:** MVC Toughts <br />
 
 # 🚀 Experiência Profissional
 Minhas experiências de trabalho profissional
