@@ -2,7 +2,6 @@
 
 # 👋 **[Diogo Realles 🡽](https://www.linkedin.com/in/diogorealles)**
 ### **Desenvolvedor Front-end** | **UI Designer**
-<br />
 
 # 🎮 Sobre mim
 lorem...
@@ -11,6 +10,7 @@ lorem...
 Desenvolvedor Web Front-end - UI Designer
 
 # 🤖 Skills
+Minhas habilidades de Front-end e UI Designer
 **HTML5:** ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
 **CSS3:** ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
 **JAVASCRIPT / ES6:** ⭐ ⭐ ⭐  (3/5) <br />
@@ -23,14 +23,14 @@ Desenvolvedor Web Front-end - UI Designer
 **FIGMA / ADOBE-XD:** ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
 
 # 🚀 Experiência Profissional
-Lorem...
+Minhas experiências de trabalho profissional
 
 | [**id360 New Media**](https://www.id360.com.br/) • 2023 - Atualmente Full-time | [**id360 New Media**](https://www.id360.com.br/) • 2020 - 2022 Full-time | [**id360 New Media**](https://www.id360.com.br/) • 2019 - 2020 Full-time |
 | :---         |     :---:      |          ---: |
 | Desenvolvedor Web Front-end   | Desenvolvedor Web Front-end     | Desenvolvedor Web Front-end    |
 | Landing Pages     | Landing Pages       | Landing Pages      |
 | HTML5, CSS3, SASS, TAILWINDCSS, JS, TS, NEXT.JS, FIGMA     | HTML5, CSS3, SASS, JS, BOOSTSTRAP, WORDPRESS, JQUERY, FIGMA      | HTML5, CSS3, SASS JS BOOSTSTRAP      |
-| Projetos em destaque: [Omini - Studio 27](https://lp-studio27.vercel.app/) - [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) - [Reserva Terrara](https://www.reservaterrara.com.br/)     | Projetos em destaque: [Omini - Studio 27](https://lp-studio27.vercel.app/) - [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) - [Reserva Terrara](https://www.reservaterrara.com.br/)      | Projetos em destaque: [Omini - Studio 27](https://lp-studio27.vercel.app/) - [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) - [Reserva Terrara](https://www.reservaterrara.com.br/)      |
+| [Omini - Studio 27](https://lp-studio27.vercel.app/) <br /> [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) <br /> [Reserva Terrara](https://www.reservaterrara.com.br/)     | [Level Up! Games](https://br.leveluplatam.com/marketing/) <br /> [TBNet - Grupo TecBan](https://www.tbnet.com.br/)      | [Website Institucional](https://www.gmmti.com.br/)      |
 
 # 👽 Idiomas
 - **Portugês:** Nativo
