@@ -78,9 +78,6 @@ Minhas experiências de trabalho profissional
 
 # 📞 Contate-me
 <div>
-  <a href="https://web.whatsapp.com/send?phone=+5511987868046&text=Olá%20vim%20%20pelo%20seu%20github,%20podemos%20conversar?" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)98786--8046-black?style=for-the-badge&logo=whatsapp&logoColor=ffffff"></a> &nbsp;
-  <a href="https://www.facebook.com/softwarealles" target="_blank"><img src="https://img.shields.io/badge/Facebook-/DiogoRealles-black?style=for-the-badge&logo=facebook&logoColor=ffffff"></a> &nbsp;
-  <a href="mailto: diogorealles@hotmail.com"><img src="https://img.shields.io/badge/Email-diogorealles@hotmail.com-black?style=for-the-badge&logo=Gmail&logoColor=ffffff"></a> &nbsp;
   <a href="https://www.linkedin.com/in/diogorealles/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-/diogorealles-black?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a> &nbsp;
   <a href="https://diogorealles.github.io/" target="_blank"><img src="https://img.shields.io/badge/SITE-portfolio-black?style=for-the-badge"></a> &nbsp;
 </div>
